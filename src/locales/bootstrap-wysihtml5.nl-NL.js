@@ -22,7 +22,8 @@
         },
         link: {
             insert: "Link invoegen",
-            cancel: "Annuleren"
+            cancel: "Annuleren",
+            target: "Link openen in nieuw venster"
         },
         image: {
             insert: "Afbeelding invoegen",
